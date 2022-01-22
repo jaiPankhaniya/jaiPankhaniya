@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaiPankhaniya
+- 👋 Hi, I’m Jay Pankhaniya
 - 👀 I’m interested in Different Coding Challanges, Website Designing and Application Development.
 - 🌱 I’m currently learning angular programming language.
 - 📫 Reach me on the LinkedIn https://www.linkedin.com/in/jay-pankhaniya/
